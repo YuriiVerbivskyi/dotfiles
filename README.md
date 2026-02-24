@@ -25,6 +25,8 @@ git clone [https://github.com/unixorn/fzf-zsh-plugin.git](https://github.com/uni
 ```
 cp .zshrc ~/.zshrc
 
+source /usr/share/doc/fzf/examples/key-bindings.zsh
 source ~/.zshrc
+
 ```
 
