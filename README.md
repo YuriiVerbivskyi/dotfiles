@@ -1,12 +1,12 @@
 ## Встановлення Zsh та Oh My Zsh
 ```
-# Встановлення Zsh
+Встановлення Zsh
 sudo apt update && sudo apt install zsh -y
 
-# Зміна  шелла на Zsh, після зміни треба ребутнути систему
+Зміна шелла на Zsh, після зміни треба ребутнути систему
 chsh -s $(which zsh)
 
-# Встановлення Oh My Zsh
+Встановлення Oh My Zsh
 sh -c "$(curl -fsSL [https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh](https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh))"
 
 
